@@ -1,0 +1,6 @@
+order_id,user_id,product,quantity
+1001,1,Apple,2
+1002,2,Banana,3
+1003,1,Cherry,1
+1004,3,Durian,4
+1005,4,Apple,2
